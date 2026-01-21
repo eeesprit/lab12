@@ -1,3 +1,4 @@
+print("To jest kalkulator dodawania, odejmowania, dzielenia i mnozenia")
 a = float ( input ( ' podaj A : ') )
 b = float ( input ( ' podaj B : ') )
 operacja = input ( ' podaj operacje : ')
