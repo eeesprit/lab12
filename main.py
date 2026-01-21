@@ -1,0 +1,6 @@
+a = float ( input ( ' podaj A : ') )
+b = float ( input ( ' podaj B : ') )
+operacja = input ( ' podaj operacje : ')
+
+if operacja == '+':
+    print ( f'{ a } + { b } = { a + b } ')
